@@ -1,4 +1,3 @@
-
 # Degree Converter
 
 [![Platform Badge](https://img.shields.io/badge/platform-Arduino-orange.svg)](https://www.arduino.cc/)
