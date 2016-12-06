@@ -65,7 +65,7 @@ Description:&nbsp;&nbsp;&nbsp;converts degrees Celsius times 16 to degrees Fahre
 Returns:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int  
 
 __roundC();__  
-Parameters:&nbsp;&nbsp;&nbsp;float / double  
+Parameters:&nbsp;&nbsp;&nbsp;float / double   
 Description:&nbsp;&nbsp;&nbsp;rounds degrees Celsius to the nearest 0.5 degree  
 Returns:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;float  
 
