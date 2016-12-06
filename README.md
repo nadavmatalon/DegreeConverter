@@ -46,7 +46,7 @@ Returns:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;float
 
 __conFtoC();__  
 Parameters:&nbsp;&nbsp;&nbsp;int / float / double  
-Description:&nbsp;&nbsp;&nbsp;converts degrees Fahrenheit to Celsius 
+Description:&nbsp;&nbsp;&nbsp;converts degrees Fahrenheit to Celsius  
 Returns:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;float  
 
 __conC16toC();__  
@@ -66,7 +66,7 @@ Returns:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int
 
 __roundC();__  
 Parameters:&nbsp;&nbsp;&nbsp;float / double  
-Description:&nbsp;&nbsp;&nbsp;rounds degrees Celsius to the nearest 0.5 degree
+Description:&nbsp;&nbsp;&nbsp;rounds degrees Celsius to the nearest 0.5 degree  
 Returns:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;float  
 
 ## RUNNING THE EXAMPLE SKETCHES
